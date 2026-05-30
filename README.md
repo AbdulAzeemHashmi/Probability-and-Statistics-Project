@@ -77,10 +77,10 @@ The project also benchmarks the fitted linear regression model against a mean ba
 
 ```
 Probability-and-Statistics-Project/
-| 24i-2013_OnlineNewsPopularity.ipynb   # Main Jupyter notebook (full analysis)
-| OnlineNewsPopularity.csv              # Dataset (39,644 rows x 61 columns)
-| OnlineNewsPopularity.names            # Feature descriptions and metadata
-| README.md                             # Project documentation (this file)
+    24i-2013_OnlineNewsPopularity.ipynb   # Main Jupyter notebook (full analysis)
+    OnlineNewsPopularity.csv              # Dataset (39,644 rows x 61 columns)
+    OnlineNewsPopularity.names            # Feature descriptions and metadata
+    README.md                             # Project documentation (this file)
 ```
 
 ---
