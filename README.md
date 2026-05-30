@@ -153,8 +153,8 @@ Five statistical hypothesis tests were conducted using the Mann-Whitney U test (
 
 | Metric | Mean Baseline | Linear Regression |
 |---|---|---|
-| RMSE | -- | Lower (improved) |
-| MAE | -- | Lower (improved) |
+| RMSE | - | Lower (improved) |
+| MAE | - | Lower (improved) |
 | R-squared | 0.0000 | > 0 |
 
 | Model | Task | Accuracy |
