@@ -232,7 +232,7 @@ Go to **Kernel > Restart and Run All** to execute the complete analysis from top
 
 If you use this dataset, please cite the original authors:
 
-> K. Fernandes, P. Vinagre and P. Cortez. *A Proactive Intelligent Decision Support System for Predicting the Popularity of Online News.* Proceedings of the 17th EPIA 2015 -- Portuguese Conference on Artificial Intelligence, September, Coimbra, Portugal.
+> K. Fernandes, P. Vinagre and P. Cortez. *A Proactive Intelligent Decision Support System for Predicting the Popularity of Online News.* Proceedings of the 17th EPIA 2015 - Portuguese Conference on Artificial Intelligence, September, Coimbra, Portugal.
 
 ---
 
