@@ -164,11 +164,11 @@ Five statistical hypothesis tests were conducted using the Mann-Whitney U test (
 
 ### Top Predictors of Article Popularity
 
-1. `kw_avg_avg` -- Average shares of best-performing keywords
-2. `kw_max_avg` -- Maximum average shares among keywords
-3. `self_reference_avg_sharess` -- Historical shares of referenced articles
-4. `LDA topic scores` -- Topic relevance signals
-5. `data_channel_is_*` -- Content category (Tech and Social Media perform best)
+1. `kw_avg_avg` - Average shares of best-performing keywords
+2. `kw_max_avg` - Maximum average shares among keywords
+3. `self_reference_avg_sharess` - Historical shares of referenced articles
+4. `LDA topic scores` - Topic relevance signals
+5. `data_channel_is_*` - Content category (Tech and Social Media perform best)
 
 ### Notable Insights
 
