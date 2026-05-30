@@ -201,26 +201,26 @@ Five statistical hypothesis tests were conducted using the Mann-Whitney U test (
 
 Make sure you have Python 3.10 or later installed.
 
-### Step 1 -- Clone the repository
+### Step 1 - Clone the repository
 
 ```bash
 git clone https://github.com/AbdulAzeemHashmi/Probability-and-Statistics-Project.git
 cd Probability-and-Statistics-Project
 ```
 
-### Step 2 -- Install dependencies
+### Step 2 - Install dependencies
 
 ```bash
 pip install numpy pandas matplotlib seaborn scipy scikit-learn statsmodels jupyter
 ```
 
-### Step 3 -- Launch the notebook
+### Step 3 - Launch the notebook
 
 ```bash
 jupyter notebook 24i-2013_OnlineNewsPopularity.ipynb
 ```
 
-### Step 4 -- Run all cells
+### Step 4 - Run all cells
 
 Go to **Kernel > Restart and Run All** to execute the complete analysis from top to bottom.
 
