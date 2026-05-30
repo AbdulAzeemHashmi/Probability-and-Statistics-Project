@@ -63,13 +63,13 @@ The project also benchmarks the fitted linear regression model against a mean ba
 
 ### Feature Categories
 
-- **Content metrics** -- word count, unique tokens, links, images, videos
-- **Keyword statistics** -- min/max/avg shares of best and worst keywords
-- **Data channel** -- Lifestyle, Entertainment, Business, Social Media, Tech, World
-- **Publication timing** -- day of week, weekend indicator
-- **LDA topic scores** -- closeness to 5 latent topics
-- **Sentiment and subjectivity** -- polarity, subjectivity, positive/negative word rates
-- **Self-reference metrics** -- shares of previously referenced Mashable articles
+- **Content metrics** - word count, unique tokens, links, images, videos
+- **Keyword statistics** - min/max/avg shares of best and worst keywords
+- **Data channel** - Lifestyle, Entertainment, Business, Social Media, Tech, World
+- **Publication timing** - day of week, weekend indicator
+- **LDA topic scores** - closeness to 5 latent topics
+- **Sentiment and subjectivity** - polarity, subjectivity, positive/negative word rates
+- **Self-reference metrics** - shares of previously referenced Mashable articles
 
 ---
 
