@@ -132,7 +132,7 @@ Probability-and-Statistics-Project/
 - Also evaluated a threshold-based classifier derived from linear regression predictions
 
 ### 9. Hypothesis Testing
-Five statistical hypothesis tests were conducted using the Mann-Whitney U test (non-parametric, suitable for non-normal distributions):
+Five statistical hypothesis tests were conducted using the Mann-Whitney U test (non-parametric, suitable for non-normal distributions):   
 
 | Feature | Null Hypothesis | Result |
 |---|---|---|
