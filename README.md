@@ -1,4 +1,4 @@
-# Online News Popularity - Probability and Statistics Project 
+# Online News Popularity - Probability and Statistics Project
     
 <div align="center">
 
